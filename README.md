@@ -12,12 +12,6 @@ Requires Windows 10/11, 64-bit x64. Download the installer and run it. Node.js a
 
 This preview installer is unsigned. Windows may display an unknown-publisher or SmartScreen warning. Only install a copy from this release or a trusted source.
 
-## Quick-start tutorial
-
-[![PokeBuild VGC tutorial](docs/tutorial-poster.png)](https://github.com/SShadowstorm/PokeBuild-VGC-feedback/releases/download/v0.2.1/PokeBuild-VGC-Quick-Start-0.2.1.mp4)
-
-An animated walkthrough with English narration and on-screen captions. Learn installation, building a team, Mega Evolution, checking damage and matchups, importing/exporting teams, and sending feedback. Controls are illustrated rather than recorded from the app.
-
 ## Report a bug or suggest an improvement
 
 Use the app’s **Bugs & suggestions** button or [create an issue](https://github.com/SShadowstorm/PokeBuild-VGC-feedback/issues/new/choose). Include the app version and, for bugs, the steps to reproduce, expected result, and actual result. Screenshots help; remove any personal information first.
