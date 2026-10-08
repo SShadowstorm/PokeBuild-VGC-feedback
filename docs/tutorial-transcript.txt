@@ -1,0 +1,40 @@
+PokeBuild VGC 0.2.1 — animated quick-start tutorial
+English synthetic narration generated locally. Controls are illustrated.
+
+Build. Test. Refine.
+Welcome to PokeBuild VGC, a Windows team builder for Pokémon Champions. This animated guide shows how to build a team, explore Mega forms, and check your matchups.
+
+01 · Install & open
+On the GitHub release page, download PokeBuild VGC Setup, version zero point two point one. Run the installer and open PokeBuild from its shortcut.
+You need 64-bit Windows ten or eleven. The installer is unsigned, so Windows may show a publisher warning. Only use the trusted project download.
+
+02 · Pick your six
+Open Team builder and select a team slot. Use Browse Pokédex to search by name, filter by type, or sort by Speed and base stat total.
+Choose a Pokémon. The editable reference set gives you a starting point, and you can change every choice afterward.
+
+03 · Make the set yours
+Choose the held item, ability, nature, and four moves. Adjust the Stat Points to match the build you want to test.
+Champions uses a maximum of sixty-six Stat Points in total and thirty-two in any one stat. These are not Scarlet and Violet effort values.
+
+04 · Explore Mega Evolution
+For example, give Barbaracle its matching stone, Barbaracite. Calculate after Mega Evolution activates the Mega form for stats, typing, and damage checks.
+The Mega panel compares the base and Mega forms. Only one Pokémon can Mega Evolve per battle. All eighty-one Mega forms have their own images.
+
+05 · Check a matchup
+Use Browse all opponents to choose a Pokémon. Edit its item, ability, nature, points, and moves to test a specific opponent set.
+Check incoming damage and outgoing damage. The app scans the selected attacking moves and shows the strongest one first. Set weather, terrain, and battle stages yourself.
+
+06 · Compare & adjust
+Usual matchups offers website-sourced opponent profiles. Pick one to load it into the calculator, then compare it against your current build.
+Use Matchup matrix to compare your team against saved opponents. These checks describe individual attacks, and the usual matchup percentage is not a battle win rate.
+
+07 · Save & share a team
+Your workspace saves on your own device. Use Import team to paste a Showdown Champions team, or Export to download your team as a text file.
+Share that file with another tester. Teams are not uploaded automatically, and calculation data and Pokémon images are bundled for offline use.
+
+08 · Help improve PokeBuild
+Use Bugs and suggestions to report a problem or suggest an improvement. Include what you clicked, what you expected, and what actually happened.
+Review and submit the report on GitHub. Reports are public and require an account. Without GitHub, save the feedback as text and send it to the developer.
+
+Your next adjustment starts here.
+Download PokeBuild from the public GitHub release, try a few matchups, and tell us what would make it more useful. Thank you for testing this early preview.
