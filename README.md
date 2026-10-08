@@ -16,8 +16,6 @@ This preview installer is unsigned. Windows may display an unknown-publisher or 
 
 [![PokeBuild VGC tutorial](docs/tutorial-poster.png)](https://github.com/SShadowstorm/PokeBuild-VGC-feedback/releases/download/v0.2.1/PokeBuild-VGC-Quick-Start-0.2.1.mp4)
 
-**[Download the 3-minute tutorial video (MP4)](https://github.com/SShadowstorm/PokeBuild-VGC-feedback/releases/download/v0.2.1/PokeBuild-VGC-Quick-Start-0.2.1.mp4)** · [Subtitles (SRT)](https://github.com/SShadowstorm/PokeBuild-VGC-feedback/releases/download/v0.2.1/PokeBuild-VGC-Quick-Start-0.2.1.srt) · [Read the transcript](https://github.com/SShadowstorm/PokeBuild-VGC-feedback/blob/main/docs/tutorial-transcript.txt)
-
 An animated walkthrough with English narration and on-screen captions. Learn installation, building a team, Mega Evolution, checking damage and matchups, importing/exporting teams, and sending feedback. Controls are illustrated rather than recorded from the app.
 
 ## Report a bug or suggest an improvement
